@@ -8,6 +8,7 @@
 - [Глава 2](chapter-02.lagda.md)
 - [Глава 3](chapter-03.lagda.md)
 - [Глава 4](chapter-04.lagda.md)
+- [Глава 5](chapter-05.lagda.md)
 
 _Продолжение следует..._
 
